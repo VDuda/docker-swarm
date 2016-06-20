@@ -21,6 +21,8 @@
 import base64
 import json
 import string
+import urllib
+import urllib2
 
 from collections import OrderedDict
 
